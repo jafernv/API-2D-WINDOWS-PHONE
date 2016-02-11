@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="XNAProyecto.ComponentesXNA.Animacion" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAEAQABAEAgAAgAAABAAAgAAAAgAgAAAABEAABAA=</HashCode>
+      <FileName>ComponentesXNA\Animacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.BotonDeslizante" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>ComponentesXNA\BotonDeslizante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.Botones" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCaGUACEUCAAARAAiCAEIgCAAQAIQIBAAIAAo0AAlwE=</HashCode>
+      <FileName>ComponentesXNA\Botones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.BotonFijo" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentesXNA\BotonFijo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.Componentes" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentesXNA\Componentes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.EfectosSonidoReproductor" Collapsed="true">
+    <Position X="20.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACBAAAAAgAAAAICAAAAAAAAAAAAAAgAAAAQ=</HashCode>
+      <FileName>ComponentesXNA\EfectosSonidoReproductor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.MusicaReproductor" Collapsed="true">
+    <Position X="22.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAYAAAAAAAAAAIAAAAAiIAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentesXNA\MusicaReproductor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.Presentacion" Collapsed="true">
+    <Position X="11.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAQgAAAAAEwAAAABAAAAEACAAAAAACIAAAAAQAAA=</HashCode>
+      <FileName>ComponentesXNA\Presentacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.PresentacionFija" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQBAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentesXNA\PresentacionFija.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.ComponentesXNA.PresentacionTiempo" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQBAAAAACAAAgBAAAAIQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentesXNA\PresentacionTiempo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Entidades.Entidades" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAQ=</HashCode>
+      <FileName>Entidades\Entidades.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Jugador.Jugador">
+    <Position X="9.25" Y="4.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAEABAAAwAAAAAABAAAAAAAAAACgIEQgAAAEAQ=</HashCode>
+      <FileName>Jugador\Jugador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Jugador.MandoVirtual">
+    <Position X="22" Y="3.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAgAAAAIAAAAAAAAAAAEAAAAAAAAAEAAA=</HashCode>
+      <FileName>Jugador\MandoVirtual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Tiles.Colisiones" Collapsed="true">
+    <Position X="15.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAiAAAAgAAAAAQAA=</HashCode>
+      <FileName>Mapa tiles\Colisiones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Tiles.MapaTiles" Collapsed="true">
+    <Position X="13.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAAAF4ASBAAiAAAEIogQQAIIQAEAAIBAECA=</HashCode>
+      <FileName>Mapa tiles\MapaTiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Tiles.Scrolling">
+    <Position X="17" Y="3" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIIAAAAAAAAAAAAAAAAAAQAAAAAAAAAEASAgBAAEAA=</HashCode>
+      <FileName>Mapa tiles\Scrolling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Menus.AdministradorPantallas" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAEEAAACgAAwAAAAAAACAAAAAAAEAIQAAAAAAAAYQ=</HashCode>
+      <FileName>Menus\AdministradorPantallas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Menus.EstadoPadTouchPanel" Collapsed="true">
+    <Position X="17" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAAEAAAAEAAAAAAAAAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>Menus\EstadoPadTouchPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Menus.Pantalla" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAAA=</HashCode>
+      <FileName>Menus\Pantalla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Menus.TiposP" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAGAAAASAAAgAAAACAAAAAAQAAAAAQAAIAAAAAAAw=</HashCode>
+      <FileName>Menus\TiposP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.CancionesR" Collapsed="true">
+    <Position X="7.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAAESAgAQAAAAAAAgAAAAQAAACCAAAAAIAAAAA=</HashCode>
+      <FileName>Recursos\CancionesR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.ConjuntoRecursos" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAIAAAQAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Recursos\ConjuntoRecursos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.EfectosSonidoR" Collapsed="true">
+    <Position X="0.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACCAAAAAACAAAUEAAAADCAAAAAAAAEAAAAAAAACAAAA=</HashCode>
+      <FileName>Recursos\EfectosSonidoR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.FuentesSpriteR" Collapsed="true">
+    <Position X="3" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgQAAACAAAQEAAAAAAQAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Recursos\FuentesSpriteR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.ImagenesR" Collapsed="true">
+    <Position X="5.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAAQAAAACAAAAAgAAIAAEEACAAAAAAAAA=</HashCode>
+      <FileName>Recursos\ImagenesR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.IsolatedStorageC" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAACAAAQAAAAAAAAIAAABAACAAA=</HashCode>
+      <FileName>XML\IsolatedStorageC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.XMLAnimaciones" Collapsed="true">
+    <Position X="19.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIABADAAAAABAQAAAYAAAAAIgAABgQAAIIAIAgQ=</HashCode>
+      <FileName>XML\XMLAnimaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.XMLDatos" Collapsed="true">
+    <Position X="20.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAIAAAAAAAABAQAAAAABgYAAQ=</HashCode>
+      <FileName>XML\XMLDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.XMLSerializerIS" Collapsed="true">
+    <Position X="24" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAABAUA=</HashCode>
+      <FileName>XML\XMLSerializerIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAProyecto.Recursos.XMLWriteReaderIS" Collapsed="true">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAgQAAUAIBAAAAACAAAAAAAAAAAAAAwAoAAAAAAAA=</HashCode>
+      <FileName>XML\XMLWriteReaderIS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="XNAProyecto.ComponentesXNA._conjunto" Collapsed="true">
+    <Position X="25.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentesXNA\Presentacion.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="XNAProyecto.Menus.EstadoP" Collapsed="true">
+    <Position X="25.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Menus\TiposP.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Animaciones>
+  <Definition AnchoFrame="38" LargoFrame="46"
+              NFilas="1" NColumnas="9"
+              NombreTextura="animacionGolpear"
+              Velocidad="165"
+              Alias="golpear"/>
+  <Definition AnchoFrame="36" LargoFrame="43"
+             NFilas="1" NColumnas="7"
+             NombreTextura="animacionDisparo"
+             Velocidad="165"
+             Alias="disparo"/>
+  <Definition AnchoFrame="37" LargoFrame="44"
+           NFilas="1" NColumnas="4"
+           NombreTextura="animacionDisparo2"
+           Velocidad="255"
+           Alias="disparo2"/>
+  <Definition AnchoFrame="36" LargoFrame="50"
+           NFilas="2" NColumnas="4"
+           NombreTextura="animacionP"
+           Velocidad="200"
+           Alias="golpeado"/>
+</Animaciones>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="XNAJuegoMenus.Juego" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAACAAQAAAAAAAAAAAAAAAAgAgAAAEAAAAAA=</HashCode>
+      <FileName>Inicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.Inicio" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Inicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.MenuAnimaciones" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAIIgAgqAAAAAAAIAQAIACDAAAEAAAAAQQ=</HashCode>
+      <FileName>MenuAnimaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.MenuInicio" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAQAAAgAAAAAAAAAAAAAAAAAAAgAEEAABAAQ=</HashCode>
+      <FileName>MenuInicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.MenuNiveles" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABBAIAAAgAAAEAAAQEAAAAAAAAAAAgEAAAAAAQ=</HashCode>
+      <FileName>MenuNiveles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.MenuOpciones" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAMAAAIEAAgAAgAAAIAAACIAAwAKAPAhEACAAhAQ=</HashCode>
+      <FileName>MenuOpciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.PantallaPresentacionTiempo" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAQAAAAQAAAAAAAAAAACAAAAAAAIAAAAAAAQQ=</HashCode>
+      <FileName>PantallaPresentacionTiempo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.ScrollingHorizontal" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAQAIAAAAAAABggAAAAAAACAABAAAAAAAEJCAAAEAEQ=</HashCode>
+      <FileName>ScrollingHorizontal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAJuegoMenus.ScrollingMapa" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAIAAAAAAAAggAAAAAAACAABAAAAAAAEJAAAAEAEQ=</HashCode>
+      <FileName>ScrollingMapa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAProyecto", "XNAProyecto\XNAProyecto.csproj", "{882C8F4F-FE90-4894-9CD3-55E46C9EB8ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAJuegoMenus", "XNAJuegoMenus\XNAJuegoMenus\XNAJuegoMenus.csproj", "{0D95D124-938D-4DF6-B4F3-9B626EB2EE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNAJuegoMenusContent", "XNAJuegoMenus\XNAJuegoMenusContent\XNAJuegoMenusContent.contentproj", "{890BCA05-4761-4DA3-9E4B-3585176BD4B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882C8F4F-FE90-4894-9CD3-55E46C9EB8ED}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{882C8F4F-FE90-4894-9CD3-55E46C9EB8ED}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{882C8F4F-FE90-4894-9CD3-55E46C9EB8ED}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{882C8F4F-FE90-4894-9CD3-55E46C9EB8ED}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{0D95D124-938D-4DF6-B4F3-9B626EB2EE50}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0D95D124-938D-4DF6-B4F3-9B626EB2EE50}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{0D95D124-938D-4DF6-B4F3-9B626EB2EE50}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{0D95D124-938D-4DF6-B4F3-9B626EB2EE50}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{0D95D124-938D-4DF6-B4F3-9B626EB2EE50}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{0D95D124-938D-4DF6-B4F3-9B626EB2EE50}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{890BCA05-4761-4DA3-9E4B-3585176BD4B9}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{890BCA05-4761-4DA3-9E4B-3585176BD4B9}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

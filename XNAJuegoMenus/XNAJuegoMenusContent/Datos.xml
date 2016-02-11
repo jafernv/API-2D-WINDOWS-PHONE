@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Datos>
+  <Definition Alias="animacionGolpear"
+              Ruta="animacionGolpear"
+              Tipo="imagen"/>
+  <Definition Alias="animacionDisparo"
+            Ruta="animacionDisparo"
+            Tipo="imagen"/>
+  <Definition Alias="animacionDisparo2"
+            Ruta="animacionDisparo2"
+            Tipo="imagen"/>
+  <Definition Alias="fuente"
+           Ruta="GameFont"
+           Tipo="fuente"/>
+  <Definition Alias="music"
+           Ruta="tormenta"
+           Tipo="cancion"/>
+  <Definition Alias="trueno"
+           Ruta="truenoEfecto"
+           Tipo="efectosonido"/>
+  <Definition Alias="truenoR"
+           Ruta="truenoEfectoR"
+           Tipo="efecto sonido"/>
+</Datos>
